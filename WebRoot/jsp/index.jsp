@@ -168,57 +168,47 @@
 				<div id="content" class="right">
 					<h2>Welcome to Floral Shop</h2>
 					<p>
-						Floral Shop is a free template provided by <a
-							href="http://sc.chinaz.com" rel="nofollow">templatemo</a>. Sed in
-						suscipit risus, eget consectetur justo. Praesent lacinia, nisi
-						quis commodo consectetur, diam magna laoreet felis, a pulvinar
-						mauris enim in felis. Phasellus in mauris velit. In pellentesque
-						massa in nisl auctor pellentesque. Donec fermentum convallis
-						purus, id luctus nulla tempus in. Aliquam diam nibh, consectetur
-						quis fringilla facilisis, egestas sed odio. Validate <a
-							href="http://sc.chinaz.com/??check?uri=referer" rel="nofollow"><strong>XHTML</strong></a>
-						&amp; <a href="http://sc.chinaz.com/??css-validator/check/referer"
-							rel="nofollow"><strong>CSS</strong></a>.
+						欢迎来到  幸福之家 ！
 					</p>
 
 					<div class="product_box">
 						<a href="productdetail.html"><img
 							src="${ctx}/images/product/01.jpg" alt="floral set 1" /></a>
-						<h3>Ut eu feugiat</h3>
-						<p class="product_price">$240</p>
+						<h3>黄玫瑰</h3>
+						<p class="product_price">￥240</p>
 						<p class="add_to_cart">
-							<a href="productdetail.html">Detail</a> <a
-								href="shoppingcart.html">Add to Cart</a>
+							<a href="productdetail.html">详情</a> <a
+								href="shoppingcart.html">购物车</a>
 						</p>
 					</div>
 					<div class="product_box">
 						<a href="productdetail.html"><img
 							src="${ctx}/images/product/02.jpg" alt="flowers 2" /></a>
-						<h3>Donec Est Nisi</h3>
-						<p class="product_price">$160</p>
+						<h3>相恋</h3>
+						<p class="product_price">￥160</p>
 						<p class="add_to_cart">
-							<a href="productdetail.html">Detail</a> <a
-								href="shoppingcart.html">Add to Cart</a>
+							<a href="productdetail.html">详情</a> <a
+								href="shoppingcart.html">购物车</a>
 						</p>
 					</div>
 					<div class="product_box">
 						<a href="productdetail.html"><img
 							src="${ctx}/images/product/03.jpg" alt="floral 3" /></a>
-						<h3>Tristique Vitae</h3>
-						<p class="product_price">$140</p>
+						<h3>爱你</h3>
+						<p class="product_price">￥140</p>
 						<p class="add_to_cart">
-							<a href="productdetail.html">Detail</a> <a
-								href="shoppingcart.html">Add to Cart</a>
+							<a href="productdetail.html">详情</a> <a
+								href="shoppingcart.html">购物车</a>
 						</p>
 					</div>
 					<div class="product_box no_margin_right">
 						<a href="productdetail.html"><img
 							src="${ctx}/images/product/04.jpg" alt="flowers 4" /></a>
-						<h3>Hendrerit Eu</h3>
-						<p class="product_price">$320</p>
+						<h3>爱你一生</h3>
+						<p class="product_price">￥320</p>
 						<p class="add_to_cart">
-							<a href="productdetail.html">Detail</a> <a
-								href="shoppingcart.html">Add to Cart</a>
+							<a href="productdetail.html">详情</a> <a
+								href="shoppingcart.html">购物车</a>
 						</p>
 					</div>
 
@@ -226,7 +216,7 @@
 						<a href="productdetail.html"><img
 							src="${ctx}/images/product/05.jpg" alt="floral set 5" /></a>
 						<h3>Tincidunt Nisi</h3>
-						<p class="product_price">$150</p>
+						<p class="product_price">￥150</p>
 						<p class="add_to_cart">
 							<a href="productdetail.html">Detail</a> <a
 								href="shoppingcart.html">Add to Cart</a>
